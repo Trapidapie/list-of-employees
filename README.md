@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+The first project on react, I knew the very base and was able to do this, do not judge strictly it was the beginning.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
